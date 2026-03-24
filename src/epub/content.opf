@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-03-24T18:01:30Z</dc:date>
+		<meta property="dcterms:modified">2026-03-24T18:01:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,16 +43,16 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85056663</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">Hilaire Belloc takes a cruise around Wales and the English Channel on his sailing boat, the Nona, and writes on a wide array of varying topics as he sails.</dc:description>
+		<dc:description id="description">Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1925, &lt;i&gt;The Cruise of the Nona&lt;/i&gt; is one of British-French writer &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc’s&lt;/a&gt; travelogues, similar to his previous &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome"&gt;&lt;i&gt;The Path to Rome&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-four-men"&gt;&lt;i&gt;The Four Men&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;The Cruise of the Nona&lt;/i&gt; begins in Holyhead, Wales, and finally ends in his home county of Sussex. The cruise in his sailing boat, the &lt;i&gt;Nona&lt;/i&gt;, provides Belloc with an opportunity to use his experience of sailing, the sea, and the sights on land to reflect on many topics. As he sails, he writes on religious belief, public leadership, the English character, youth, fools, literature, writers, and much more. Belloc writes with humor and wit, and turns a critical eye on much of early twentieth-century life, politics, culture, and religion.&lt;/p&gt;
+			&lt;p&gt;Published in 1925, &lt;i&gt;The Cruise of the Nona&lt;/i&gt; is one of British-French writer &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc’s&lt;/a&gt; travelogues, similar to his previous &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome"&gt;&lt;i&gt;The Path to Rome&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-four-men"&gt;&lt;i&gt;The Four Men&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;The Cruise of the Nona&lt;/i&gt; begins in Holyhead, Wales, and finally ends in his home county of Sussex. The cruise gives Belloc the opportunity to use his experiences with sailing, the sea, and the sights on land to reflect on a variety of topics. As he sails, he writes on religious belief, public leadership, the English character, youth, fools, literature, writers, and much more. Belloc writes with humor and wit, and turns a critical eye on much of early twentieth-century life, politics, culture, and religion.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/78020</dc:source>
 		<dc:source>https://archive.org/details/cruiseofnonastor00bell</dc:source>
 		<meta property="se:production-notes">The words "gripe" and "griped" are nautical terms, so they were not modernized to "grip" and "gripped."</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">112041</meta>
+		<meta property="se:reading-ease.flesch">60.38</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hilaire-belloc_the-cruise-of-the-nona</meta>
 		<dc:creator id="author">Hilaire Belloc</dc:creator>
 		<meta property="file-as" refines="#author">Belloc, Hilaire</meta>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
