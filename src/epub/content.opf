@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Cruise of the Nona: The Story of a Cruise from Holyhead to the Wash, with Reflections and Judgments on Life and Letters, Men and Manners</dc:title>
 		<meta property="file-as" refines="#fulltitle">Cruise of the Nona, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Voyages and travels</dc:subject>
 		<dc:subject id="subject-2">Great Britain--Description and travel</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
