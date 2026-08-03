@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/hilaire-belloc/the-cruise-of-the-nona</dc:identifier>
 		<dc:date>2026-03-24T18:01:30Z</dc:date>
@@ -45,10 +45,10 @@
 		<meta property="term" refines="#subject-2">sh85056663</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:description id="description">Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Published in 1925, &lt;i&gt;The Cruise of the Nona&lt;/i&gt; is one of British-French writer &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc’s&lt;/a&gt; travelogues, similar to his previous &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome"&gt;&lt;i&gt;The Path to Rome&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-four-men"&gt;&lt;i&gt;The Four Men&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;The Cruise of the Nona&lt;/i&gt; begins in Holyhead, Wales, and finally ends in his home county of Sussex. The cruise gives Belloc the opportunity to use his experiences with sailing, the sea, and the sights on land to reflect on a variety of topics. As he sails, he writes on religious belief, public leadership, the English character, youth, fools, literature, writers, and much more. Belloc writes with humor and wit, and turns a critical eye on much of early twentieth-century life, politics, culture, and religion.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/78020</dc:source>
 		<dc:source>https://archive.org/details/cruiseofnonastor00bell</dc:source>
