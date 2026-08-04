@@ -45,7 +45,7 @@
 		<meta property="term" refines="#subject-2">sh85056663</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.</dc:abstract>
+		<meta property="schema:abstract">Hilaire Belloc cruises around Wales and the English Channel on his sailboat, writing on a variety of topics.</meta>
 		<dc:description>
 			&lt;p&gt;Published in 1925, &lt;i&gt;The Cruise of the Nona&lt;/i&gt; is one of British-French writer &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc’s&lt;/a&gt; travelogues, similar to his previous &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-path-to-rome"&gt;&lt;i&gt;The Path to Rome&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc/the-four-men"&gt;&lt;i&gt;The Four Men&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;The Cruise of the Nona&lt;/i&gt; begins in Holyhead, Wales, and finally ends in his home county of Sussex. The cruise gives Belloc the opportunity to use his experiences with sailing, the sea, and the sights on land to reflect on a variety of topics. As he sails, he writes on religious belief, public leadership, the English character, youth, fools, literature, writers, and much more. Belloc writes with humor and wit, and turns a critical eye on much of early twentieth-century life, politics, culture, and religion.&lt;/p&gt;
 		</dc:description>
